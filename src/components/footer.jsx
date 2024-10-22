@@ -24,12 +24,12 @@ const Footer = () => {
             <div className='container-name_footer'>
               <div className='div1'>
                 <p>Sara Cristina Cano Sierra</p>
-                <p>johan</p>
-                <p>Elena</p>
+                <p>johan Valencia</p>
+                <p>Elena Lopez Tabares</p>
               </div>
               <div className='div2'>
-                <p>Diego</p>
-                <p>Cesar</p>
+                <p>Diego Grisales</p>
+                <p>Cesar Rios Guisao</p>
               </div>
             </div>
             
